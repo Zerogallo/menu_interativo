@@ -1,12 +1,27 @@
-# React + Vite
+# Menu Lateral Interativo - CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Preview do Relógio](https://github.com/Zerogallo/menu_interativo/blob/main/public/imag.PNG)
+![Preview do Relógio](https://github.com/Zerogallo/menu_interativo/blob/main/public/imag2.PNG)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Visão Geral
+Um menu lateral elegante e interativo que:
+- Fica compacto mostrando apenas ícones (80px)
+- Expande ao passar o mouse para mostrar textos (260px)
+- Possui animações suaves e efeitos de hover
+- Ideal para dashboards e painéis administrativos
 
-## Expanding the ESLint configuration
+## ✨ Características
+- *Design econômico*: Ocupa pouco espaço quando recolhido
+- *Interação intuitiva*: Expande ao passar o mouse
+- *Estilo moderno*:
+  - Bordas arredondadas nos itens
+  - Tema escuro com destaque ao selecionar
+  - Transições suaves
+- *Responsivo*: Posição fixa permanece visível
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📥 Instalação
+1. Clone o repositório
+2. Adicione o HTML/CSS ao seu projeto
+3. Personalize ícones e cores
